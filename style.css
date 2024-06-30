@@ -50,6 +50,10 @@ body {
   margin: 5px;
   border-radius: 20px;
   border: 1px solid black;
+  box-shadow: 1px 5px 5px #b9b8b8;
+  font-size: 40px;
+  background-color: #917b18;
+  color: black;
 }
 .btn:hover{
     cursor: pointer;
